@@ -6,3 +6,6 @@ Workshop presented to graduate students and faculty at Concordia University 10-2
 
 # Contact
 email: seandamiandevine@gmail.com
+
+# Associated Slides
+https://docs.google.com/presentation/d/1hReUT32U3mkGeChZNIyk9WbgUr_Uu8LkwOS7MtsjhGA/edit?usp=sharing

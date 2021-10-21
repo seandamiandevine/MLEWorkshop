@@ -9,6 +9,7 @@
 
 
 # Simulate data -----------------------------------------------------------
+# Skip this part if you are just interested in the model fitting 
 
 # Simulation parameters
 set.seed(2021)    # Random seed for replication
@@ -49,9 +50,6 @@ for(id in 1:N){
     data = rbind(data, data.frame(id=id, t=t, choice=choice, outcome=outcome, stringsAsFactors = F))
   }
  }
-
-tapply(data$outcome, data$choice, mean)
-
 
 # Fit ---------------------------------------------------------------------
 
