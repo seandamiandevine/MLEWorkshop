@@ -9,3 +9,7 @@ email: seandamiandevine@gmail.com
 
 # Associated Slides
 https://docs.google.com/presentation/d/1hReUT32U3mkGeChZNIyk9WbgUr_Uu8LkwOS7MtsjhGA/edit?usp=sharing
+
+# Recording 
+
+https://youtu.be/bTL9BdYKYio
